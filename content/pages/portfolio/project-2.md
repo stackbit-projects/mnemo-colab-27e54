@@ -2,7 +2,7 @@
 title: Aimi
 subtitle: Brand Development
 date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
+thumb_image: /images/Lorem-Ipsum-alternatives-768x492-29d42447.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section

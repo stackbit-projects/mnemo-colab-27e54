@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: What is Google Colab?
 hide_title: false
 sections:
   - type: content_section

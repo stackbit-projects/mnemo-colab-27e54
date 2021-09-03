@@ -3,7 +3,7 @@ title: Subtle
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: /images/Bildschirmfoto 2021-09-03 um 22.06.54.png
-thumb_image_alt: Subtle preview
+thumb_image_alt: Hahahaha
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg

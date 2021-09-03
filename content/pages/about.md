@@ -12,7 +12,7 @@ sections:
 
       In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
       turpis et nisi fermentum accumsan.
-    image: images/about.jpg
+    image: /images/1_pimj8lXWwZnqLs2xVCV2Aw.png
     image_alt: Our team in the meeting room
 seo:
   title: About Us

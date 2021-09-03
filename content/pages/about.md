@@ -3,15 +3,13 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: >
+      Colaboratory, or “Colab” for short, is a product from Google Research.
+      Colab allows anybody to write and execute arbitrary python code through
+      the browser, and is especially well suited to machine learning, data
+      analysis and education. More technically, Colab is a hosted Jupyter
+      notebook service that requires no setup to use, while providing free
+      access to computing resources including GPUs.
     image: /images/1_pimj8lXWwZnqLs2xVCV2Aw.png
     image_alt: Our team in the meeting room
 seo:

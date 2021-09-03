@@ -22,7 +22,7 @@ sections:
       Back to my main homepage
     actions:
       - label: Mnemo Homepage
-        url: mnemo.uk
+        url: 'https://mnemo.uk'
         style: button
     image: /images/777.png
     image_alt: Illustration

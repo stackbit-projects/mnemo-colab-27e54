@@ -21,7 +21,7 @@ sections:
     content: |
       Back to my main homepage
     actions:
-      - label: Let's start
+      - label: Mnemo Homepage
         url: /contact
         style: button
     image: /images/777.png

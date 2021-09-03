@@ -18,9 +18,8 @@ sections:
   - type: cta_section
     section_id: cta
     title: I created this site with Next JS
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: |
+      Back to my main homepage
     actions:
       - label: Let's start
         url: /contact

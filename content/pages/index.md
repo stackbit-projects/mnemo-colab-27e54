@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: These are all my tiny google colab projects written in python
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      When you get redirected to my google colab just press the play button on
+      each cell on the left side to run the code.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

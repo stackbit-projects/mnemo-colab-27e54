@@ -12,7 +12,6 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Google Colab Files
-    subtitle: Explore case studies
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio

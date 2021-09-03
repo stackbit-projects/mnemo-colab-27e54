@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: images/work-book-cover-1-thumb.jpg
+thumb_image: /images/Lorem-Ipsum-alternatives-768x492-0fe8b63b.png
 thumb_image_alt: The Book preview
 sections:
   - type: image_section

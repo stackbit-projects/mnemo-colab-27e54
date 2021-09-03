@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://mnemo-colab-27e54.netlify.app"
 }

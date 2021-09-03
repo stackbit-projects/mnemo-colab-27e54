@@ -25,7 +25,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: /images/Bildschirmfoto 2021-09-03 um 22.16.50.png
+    image: /images/777.png
     image_alt: Illustration
     bg_color: light
 layout: advanced
